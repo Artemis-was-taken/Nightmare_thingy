@@ -11,7 +11,7 @@
         "title": "Invidious",
         "icon": "https://invidious.io/favicon.ico",
         "type": "url",
-        "url": "https://inv.riverside.rocks/feed/popular"
+        "url": "https://invidious.snopyta.org/feed/popular"
     },
     {
         "id": "2",
@@ -47,5 +47,19 @@
         "icon": "",
         "type": "js",
         "url": "/apps/htmleditor.js"
-    }
+    },
+    {
+        "id": "7",
+        "title": "Google",
+        "icon": "",
+        "type": "url",
+        "url": "https://google.com"
+    },
+    {
+        "id": "8",
+        "title": "Utowopia",
+        "icon": "",
+        "type": "url",
+        "url": "https://utopia.education"
+    },
 ]
